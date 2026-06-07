@@ -129,7 +129,7 @@ Dibuat untuk **UAS Mata Kuliah Artificial Intelligence**
 Prodi Teknologi Informasi — UIN Antasari Banjarmasin
 Dosen: Wifda Muna Fatihia, M.Tr.Kom
 
-**Achmad Alpianoor** — 240104040144
+**Ahmad Firdaus** — 240104040142
 
 ## Lisensi
 
